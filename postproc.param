@@ -1,0 +1,18 @@
+barebones parameter file. spruce up later. 
+-------------------------------------------------------------------------
+                          general parameters
+-------------------------------------------------------------------------
+NUMBER_OUTPUTS:5000
+BINARY_OUTPUT:YES
+VERBOSE_OUTPUT:NO
+-------------------------------------------------------------------------
+                        postprocessing parameters
+-------------------------------------------------------------------------
+NAT_RESOLU:0.01
+SMO_RESOLU:0.738733
+PIXEL_SCALE: 0.200
+ROT_VELOCI :0.0,15.0
+ROT_FUDGE:0.0
+RAD_VELOCI :-30.0,30.0
+WAVE_RANGE:6625.0,6825.0
+
